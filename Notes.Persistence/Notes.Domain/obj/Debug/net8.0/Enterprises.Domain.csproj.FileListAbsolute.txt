@@ -1,0 +1,15 @@
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\bin\Debug\net8.0\Enterprises.Domain.deps.json
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\bin\Debug\net8.0\Enterprises.Domain.runtimeconfig.json
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\bin\Debug\net8.0\Enterprises.Domain.dll
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\bin\Debug\net8.0\Enterprises.Domain.pdb
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.csproj.AssemblyReference.cache
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.AssemblyInfoInputs.cache
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.AssemblyInfo.cs
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.sourcelink.json
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.dll
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\refint\Enterprises.Domain.dll
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.pdb
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\Enterprises.Domain.genruntimeconfig.cache
+C:\Users\bilen\source\repos\bilenkobogdan1\BilEnterprise\BilEnterprise.Server\Project32\Notes.Domain\obj\Debug\net8.0\ref\Enterprises.Domain.dll
